@@ -1,6 +1,6 @@
 {
 	"name": "samljs",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"licenses": [
 		{
 			"type": "MIT",
@@ -26,7 +26,11 @@
 			"name": "Henri Bergius",
 			"email": "henri.bergius@iki.fi",
 			"url": "http://bergie.iki.fi"
-		}
+		},
+	  {
+		"name": "Justin Williams",
+		"email": "justin.williams@enflick.com"
+	  }
 	],
 	"main": "./index.js",
 	"dependencies": {
