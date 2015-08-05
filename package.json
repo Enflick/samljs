@@ -39,6 +39,10 @@
 		"xpath": "*",
 		"lodash": "*"
 	},
+  "repository":{
+    "type": "git",
+    "url": "git://github.com/Enflick/samljs.git"
+  },
 	"devDependencies": {
 		"ejs": "0.8.x",
 		"jshint": "*",
